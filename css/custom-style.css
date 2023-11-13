@@ -1,0 +1,121 @@
+
+
+
+/* footer */
+.widgets_wrapper{
+    height: 90px;
+}
+
+.b_venue{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* top bar */
+
+#top_bar{
+    height: 20px;
+    background: #800000;
+    color: white;
+}
+
+/* rights and develop */
+
+.dev{
+    color: gray;
+}
+
+.author,.copy{
+
+    color: black;
+    
+}
+
+/* main paragraph */
+
+.m_para{
+    font-size: 14px;
+    line-height: 0.75cm;   
+    color: white;
+    background: #800000;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* objective */
+
+.obj{
+    padding-top: 5px;
+}
+
+/* ousl logo */
+
+.oulogo{
+
+    height: 70px;
+}
+
+/* publications */
+
+.proc{
+    margin-top: 150px;
+    color: white;
+
+}
+
+.awards{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.tab1{
+
+    height: 30px;
+    background: #800000;
+
+}
+
+.aw{
+    font-size: 13px;
+}
+
+/* contact */
+
+.contact{
+
+   text-align-last: center;
+    
+}
+
+/* Submit Abstract */
+
+#submit-abstract{
+
+    margin: auto;
+    width: 40%;    
+    
+}
+
+#submit_contact{
+
+    width: 98%;
+
+}
+
+.mytxt{
+    
+    max-width: 94%;
+    min-width: 94%;
+
+}
+
+
+/* Objective can remove */
+
+
+
+
+
