@@ -327,7 +327,7 @@ a:hover.next_page {
 /* main menu 1st level */
 #Header #menu {
   float: right;
-  margin: 0px 0 20px;
+  margin: 20px 0 20px;
   display: block;
 }
 #Header .menu {
